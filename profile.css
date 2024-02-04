@@ -1,0 +1,59 @@
+.image1{
+    width: 300px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: tomato;
+}
+.nam{
+    color: blue;
+    text-decoration: solid;
+}
+.head2{
+    margin-top: 50px;
+    color: red;
+}
+.container2{
+    background-color: yellow;
+    padding: 10px;
+}
+label{
+    display: inline-block;
+    width: 95px;
+    color: blue;
+    font-weight: bold;
+}
+input, select{
+    box-sizing: border-box;
+    width: calc(20% - 30px);
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+    background-color: aqua;
+}
+.form1{
+    margin-top: 20px;
+}
+div2{
+    display: flex;
+    justify-content: center;
+}
+.h2form{
+    color: blue;
+}
+table, tr, th, td{
+    border: solid 2px lightgray;
+    font-weight: bold;
+}
+.dive3{
+    background-color: violet;
+    justify-content: center;
+    margin: 10px;
+    
+}
+.dive3 h1{
+    text-align: center;
+}
